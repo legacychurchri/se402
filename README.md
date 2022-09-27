@@ -1,2 +1,0 @@
-# se402
-Description
